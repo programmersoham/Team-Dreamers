@@ -24,8 +24,8 @@ ReactDOM.render(
         chainId: 44787,
       }}
       dapp={{
-        name: "Dripto Ponks",
-        description: "A React Boilerplate for Celo Dapps",
+        name: "NFT Marketplace using CELO",
+        description: "A Celo Dapp",
       }}
     >
       <App />
